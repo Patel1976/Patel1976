@@ -1,40 +1,57 @@
 # Hi 👋, I'm Harsh Patel
 
-🚀 Full Stack Developer from India 🇮🇳  
-💻 Working on Inventory Management & E-commerce Systems  
-🌱 Currently learning advanced React & system design  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=Full+Stack+Developer;Laravel+%7C+React+Developer;Building+Scalable+Web+Apps🚀" />
+</p>
+
+🚀 Full Stack Web Developer from India 🇮🇳  
+💼 Currently working at Ranucle Pvt. Ltd.  
+💡 Passionate about building scalable, user-friendly applications  
+
+---
+
+## 🧠 About Me
+- 🔭 Working on **Web & Mobile Applications (Laravel + React + React Native)**  
+- ⚙️ Experienced in building **Admin Panels & Management Systems**  
+- 🔗 Skilled in **REST API Development & Integration**  
+- 🔐 Focused on **Security, Performance & Clean Code**  
 
 ---
 
 ## 🛠️ Tech Stack
-- 💻 PHP, Laravel  
-- 🌐 JavaScript, React  
-- 🗄️ MySQL  
-- 🎨 HTML, CSS, Bootstrap  
+
+### 💻 Languages
+- PHP, JavaScript  
+
+### 🌐 Frontend
+- React JS, React Native, HTML5, CSS3, Bootstrap  
+
+### ⚙️ Backend & CMS
+- Laravel, WordPress  
+
+### 🗄️ Database
+- MySQL, MongoDB, PostgreSQL  
+
+### 🧰 Tools
+- Git, GitHub  
 
 ---
 
 ## 🚀 Projects
 - 📦 Inventory Management System  
-- 🛒 E-commerce Website  
+- 🛒 E-commerce Platform  
 - 📊 Admin Dashboards  
 
 ---
 
-## 📈 GitHub Stats
-![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
-
----
-
 ## 🔥 Streak Stats
-![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Patel1976)
 
 ---
 
 ## 🌐 Connect With Me
-- 💼 LinkedIn: https://linkedin.com/in/YOUR_LINK  
-- 📧 Email: your@email.com  
+- 📧 Email: hp1241976@gmail.com   
 
 ---
 
-⭐️ From [YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+⭐️ From [Harsh Patel](https://github.com/Patel1976)
