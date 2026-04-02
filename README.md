@@ -4,7 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=Full+Stack+Developer;Laravel+%7C+React+Developer;Building+Scalable+Web+Apps🚀" />
 </p>
 
-🚀 Full Stack Web Developer from India 🇮🇳  
 💼 Currently working at Ranucle Pvt. Ltd.  
 💡 Passionate about building scalable, user-friendly applications  
 
