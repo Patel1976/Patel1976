@@ -43,11 +43,6 @@
 
 ---
 
-## 🔥 Streak Stats
-![GitHub Streak](https://streak-stats.demolab.com/?user=Patel1976)
-
----
-
 ## 🌐 Connect With Me
 - 📧 Email: hp1241976@gmail.com   
 
